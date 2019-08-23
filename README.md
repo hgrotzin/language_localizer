@@ -1,4 +1,4 @@
-# language localizer
+# Language Localizer
 Blocked auditory language localizer for in-scanner use. 
 
 Task Parameters
