@@ -16,3 +16,8 @@ The pop-up window asks for run type: scanner or backup.
 Subject key responses
 ---------------------
 Keys pressed can be edited in the code itself. Current target keys are 1, 2, 3, and 4. Space bar moves through the instructions and + moves through the trigger slide (space bar will also move past this slide for ease of testing/starting task outside of scanner - can remove this when task is ready for scanner runs to avoid human error).
+
+References
+----------
+Task based on: 
+Terri L. Scott, Jeanne Gallée & Evelina Fedorenko (2016): A new fun and robust version of an fMRI localizer for the frontotemporal language system, *Cognitive Neuroscience*. Auditory clips can be found here: https://evlab.mit.edu/papers/Scott_CogNeuro.
