@@ -1,5 +1,5 @@
 # Language Localizer
-Blocked auditory language localizer for in-scanner use. 
+Blocked auditory language localizer coded in python for MR scanner use. Variables and stimuli are determined from an input csv (not hard-coded) so the task is easy to edit for personal use. Requires PsychoPy.
 
 Task Parameters
 ---------------
