@@ -47,10 +47,10 @@ logging.console.setLevel(logging.WARNING)  # This outputs to the screen
 
 # csv to be read
 if expInfo['run'] == 'Scanner':
-    filepaths = "OrderAB.csv"
+    filepaths = "language_AB.csv"
     df_trials_AB = pd.read_csv(filepaths, index_col=False)
 else:
-    filepaths = "OrderB.csv"
+    filepaths = "language_B.csv"
     df_trials_backup = pd.read_csv(filepaths, index_col=False)
 
 # create window - black screen
